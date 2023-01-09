@@ -4,7 +4,6 @@ import Product from "./Product";
 import "./shop.css";
 
 function Shop() {
-  
   return (
     <div className="shop">
       <div className="shopTitle">
